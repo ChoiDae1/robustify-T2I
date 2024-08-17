@@ -60,7 +60,8 @@ sh scripts/eval_empirical.sh
 # for certified accuracy 
 sh scripts/eval_certified.sh
 ```
-After obtaining the output file, you can visualize/calculate accuracy by using jupyter file ```analysis/analyze.py```. When computing empirical **clean** accuracy, you directly execute ```measure_empirical_clean.py``` by using output file and classifier checkpoint. 
+After obtaining the output file, you can visualize/calculate accuracy by using jupyter file ```analysis/analyze.py```. We provide some examples in ```analyze_example.ipynb```.
+When computing empirical **clean** accuracy, you directly execute ```measure_empirical_clean.py``` by using output file and classifier checkpoint. 
 
 ## 📝 Citation
 
