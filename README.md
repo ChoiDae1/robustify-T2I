@@ -34,7 +34,7 @@ conda deactivate
 # download necessary libraries
 pip install -r requirements.txt 
 ```
-You should **replace** files in .venv/lib/python3.10.12/site-packages/torchvision/datasets with the files in replace/torchvision.datasets in this repo. 
+You should **replace** files in .venv/lib/python3.10.12/site-packages/torchvision/datasets with the files in replace folder in this repo. 
 
 ### Self-Adaptation 
 In this phase, we first synthesize a few reference images via text-to-image diffusion models and then, fine-tune text-to-image diffusion models and classifiers with them. Other adaptation details (ex. hyper-parameters) is reported in Appendix in our paper. By executing below code sequentially, you finally obtain checkpoints. 
