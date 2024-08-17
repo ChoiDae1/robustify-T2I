@@ -8,7 +8,7 @@ In this paper, by leveraging text-to-image diffusion models, we provide a scalab
 
 
 ## 📣 News
-- [2024.08.16] Code is uploaded. 
+- [2024.08.18] Code is uploaded. 
 - [2024.08.12] Our paper is accepted for **Oral presentation** in **ECCV 2024** 🎉.
 - [2024.07.01] Our paper is accepted by **ECCV 2024** 🎉.
  
