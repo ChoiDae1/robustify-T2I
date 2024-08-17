@@ -1,4 +1,4 @@
-# Adversarial Robustification via Text-to-Image Diffusion Models (ECCV 2024) 
+# [ECCV 2024 - Oral] Adversarial Robustification via Text-to-Image Diffusion Models
 This repository contains code for the paper [Adversarial Robustification via Text-to-Image Diffusion Models](https://arxiv.org/html/2407.18658v1) by [Daewon Choi*](), [Jongheon Jeong*](https://jh-jeong.github.io/), [Huiwon Jang](https://huiwon-jang.github.io/) and [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
 (*Equally Contributed)
 
