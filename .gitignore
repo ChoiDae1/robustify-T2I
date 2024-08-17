@@ -1,0 +1,21 @@
+# Initially taken from Github's Python gitignore file
+.vscode
+__pycache__/
+wandb/
+output/
+checkpoint/
+
+# expertiment
+diffusion_exp
+classifier_exp
+
+# dataset
+datasets/DATA
+datasets/generated_DATA
+TeCoA/__pycache__
+TeCoA/.zero
+TeCoA/save
+TeCoA/ZSRobust4FoundationModel
+
+
+
